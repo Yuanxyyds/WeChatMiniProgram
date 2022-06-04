@@ -1,0 +1,13 @@
+{
+  "useExtendedLib": {
+    "weui": true
+  },
+  "pages": [
+    "pages/indexModel/index",
+    "pages/success/index"
+  ],
+  "subpackages": [],
+  "homePageId": "indexModel",
+  "entryPagePath": "pages/indexModel/index",
+  "sitemapLocation": "sitemap.json"
+}
