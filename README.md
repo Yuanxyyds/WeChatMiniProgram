@@ -14,4 +14,4 @@ For better development of our tutor club, we propose this Wechat Miniprogram. Ou
 ## How to Contribute?
 - Create your own branch at this repo, after you finished a feature, push your changes
 
-- Edit the code then git pull + git push, Yuanxyyds will finish the work afterwards.（我们不需要用wechat自带的version control，所以只需要通过github share code就好，我最后上传）
+- Edit the code then git pull + git push, Yuanxyyds will finish the work afterwards.（we will not use wechat's version control, we will use github to share code）
