@@ -1,6 +1,0 @@
-<wxs src="/common/utils.wxs" module="wxsUtils"/>
-<a id="id1" style="{{id1.style}};{{style}}" className="wa-comp-CLOUDBASE_STANDARD-Icon {{id1.className}} {{className}}" title="{{id1.title}}">
-	<a id="id3" style="{{id3.style}}" className="{{id3.className}}" title="{{id3.title}}">
-		<b id="id2" style="{{id2.style}}" className="{{id2.className}}" wx:if="{{id2._waIf}}" alt="{{id2.alt}}" src="{{wxsUtils._getStaticResourceAttribute(src)}}" mode="{{id2.mode}}" lazyLoad="{{id2.lazyLoad}}" showMenuByLongpress="{{id2.showMenuByLongpress}}"/>
-	</a>
-</a>

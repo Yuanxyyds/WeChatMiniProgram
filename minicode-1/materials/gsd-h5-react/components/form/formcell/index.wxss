@@ -1,9 +1,0 @@
-@import '../../../style/weda-ui.wxss';
-
-.weda-formcells__flag {
-  display: inline-block;
-  margin-right: 4px;
-  font-family: SimSun;
-  font-size: 12px;
-  color: #f60;
-}

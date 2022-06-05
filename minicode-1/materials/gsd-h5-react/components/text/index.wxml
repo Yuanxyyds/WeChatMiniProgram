@@ -1,6 +1,0 @@
-<text 
-  class="weda-text weda-ui {{className}}" 
-  id="{{id}}"
-  user-select="{{userSelect}}"
-  style="-webkit-line-clamp:{{maxLines}}; white-space: {{ space ? 'pre-warp' : 'pre-line'}}; {{style}}"
->{{text}}</text>
