@@ -1,0 +1,12 @@
+<block wx:if="{{weDaHasLogin}}">
+	<wxs src="/common/utils.wxs" module="wxsUtils" data-weui-theme="light"/>
+	<a id="id10" style="{{id10.style}}" className="{{id10.className}}" title="{{id10.title}}">
+		<a id="id2" style="{{id2.style}}" className="{{id2.className}}" title="{{id2.title}}">
+			<b id="id6" style="{{id6.style}}" className="{{id6.className}}" color="{{id6.color}}" name="{{id6.name}}" size="{{id6.size}}" src="{{wxsUtils._getStaticResourceAttribute(id6.src)}}"/>
+		</a>
+		<a id="id7" style="{{id7.style}}" className="{{id7.className}}" title="{{id7.title}}">
+			<c id="id8" style="{{id8.style}}" className="{{id8.className}}" maxLines="{{id8.maxLines}}" space="{{id8.space}}" text="{{id8.text}}" userSelect="{{id8.userSelect}}">{{id8.text}}</c>
+			<c id="id9" style="{{id9.style}}" className="{{id9.className}}" maxLines="{{id9.maxLines}}" space="{{id9.space}}" text="{{id9.text}}" userSelect="{{id9.userSelect}}">{{id9.text}}</c>
+		</a>
+	</a>
+</block>

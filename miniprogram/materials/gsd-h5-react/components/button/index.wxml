@@ -1,0 +1,19 @@
+<button
+ class="{{cls}}"
+ style="{{style}}"
+ size="{{size}}"
+ loading="{{loading}}"
+ disabled="{{disabled}}"
+ open-type="{{openType}}"
+ form-type="{{formType}}"
+ bind:tap="tap"
+ bindgetphonenumber="getPhoneNumber"
+ bindcontact="contact"
+ bindgetuserinfo="getUserInfo"
+ bindlaunchapp="launchApp"
+ bindopensetting="openSetting"
+>
+	{{text ? text : ''}}
+	<slot name="contentSlot" wx:if="{{!text}}" />
+</button>
+

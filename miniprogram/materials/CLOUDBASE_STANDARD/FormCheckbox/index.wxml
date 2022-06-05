@@ -1,0 +1,4 @@
+<wxs src="/common/utils.wxs" module="wxsUtils"/>
+<a id="id1" style="{{id1.style}};{{style}}" className="wa-comp-CLOUDBASE_STANDARD-FormCheckbox {{id1.className}} {{className}}" name="{{name}}" rules="{{id1.rules}}" layout="{{id1.layout}}" required="{{required}}" requiredMsg="{{requiredMsg}}" requiredFlag="{{id1.requiredFlag}}" validateStatus="{{id1.validateStatus}}" submitFormatter="{{id1.submitFormatter}}" validateTrigger="{{id1.validateTrigger}}" displayFormatter="{{id1.displayFormatter}}">
+	<b id="id3" style="{{id3.style}}" className="{{id3.className}}" label="{{label}}" range="{{id3.range}}" layout="{{id3.layout}}" disabled="{{disabled}}" labelVisible="{{labelVisible}}" requiredFlag="{{id3.requiredFlag}}" bind:change="onid3$change" slot="contentSlot"/>
+</a>

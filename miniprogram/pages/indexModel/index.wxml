@@ -1,0 +1,110 @@
+<block wx:if="{{weDaHasLogin}}">
+	<wxs src="/common/utils.wxs" module="wxsUtils" data-weui-theme="light"/>
+	<a id="id148" style="{{id148.style}}" className="{{id148.className}}" title="{{id148.title}}">
+		<c id="id222" style="{{id222.style}}" className="{{id222.className}}" color="{{id222.color}}" name="{{id222.name}}" size="{{id222.size}}" src="{{wxsUtils._getStaticResourceAttribute(id222.src)}}"/>
+		<c id="id223" style="{{id223.style}}" className="{{id223.className}}" color="{{id223.color}}" name="{{id223.name}}" size="{{id223.size}}" src="{{wxsUtils._getStaticResourceAttribute(id223.src)}}"/>
+		<a id="id141" style="{{id141.style}}" className="{{id141.className}}" title="{{id141.title}}">
+			<a id="id202" style="{{id202.style}}" className="{{id202.className}}" title="{{id202.title}}">
+				<b id="id201" style="{{id201.style}}" className="{{id201.className}}" maxLines="{{id201.maxLines}}" space="{{id201.space}}" text="{{id201.text}}" userSelect="{{id201.userSelect}}">{{id201.text}}</b>
+				<a id="id206" style="{{id206.style}}" className="{{id206.className}}" title="{{id206.title}}">
+					<c id="id207" style="{{id207.style}}" className="{{id207.className}}" color="{{id207.color}}" name="{{id207.name}}" size="{{id207.size}}" src="{{wxsUtils._getStaticResourceAttribute(id207.src)}}"/>
+					<b id="id208" style="{{id208.style}}" className="{{id208.className}}" maxLines="{{id208.maxLines}}" space="{{id208.space}}" text="{{id208.text}}" userSelect="{{id208.userSelect}}">{{id208.text}}</b>
+				</a>
+				<a id="id204" style="{{id204.style}}" className="{{id204.className}}" title="{{id204.title}}" bind:tap="onid204$tap">
+					<c id="id203" style="{{id203.style}}" className="{{id203.className}}" color="{{id203.color}}" name="{{id203.name}}" size="{{id203.size}}" src="{{wxsUtils._getStaticResourceAttribute(id203.src)}}"/>
+					<b id="id205" style="{{id205.style}}" className="{{id205.className}}" maxLines="{{id205.maxLines}}" space="{{id205.space}}" text="{{id205.text}}" userSelect="{{id205.userSelect}}">{{id205.text}}</b>
+				</a>
+			</a>
+			<a id="id228" style="{{id228.style}}" className="{{id228.className}}" title="{{id228.title}}">
+				<d id="id143" style="{{id143.style}}" className="{{id143.className}}" alt="{{id143.alt}}" fit="{{id143.fit}}" imgPreview="{{id143.imgPreview}}" lazyLoad="{{id143.lazyLoad}}" maskClosable="{{id143.maskClosable}}" mode="{{id143.mode}}" showMenuByLongpress="{{id143.showMenuByLongpress}}" src="{{wxsUtils._getStaticResourceAttribute(id143.src)}}"/>
+			</a>
+		</a>
+		<a id="id149" style="{{id149.style}}" className="{{id149.className}}" title="{{id149.title}}">
+			<a id="id150" style="{{id150.style}}" className="{{id150.className}}" title="{{id150.title}}">
+				<c id="id152" style="{{id152.style}}" className="{{id152.className}}" color="{{id152.color}}" name="{{id152.name}}" size="{{id152.size}}" src="{{wxsUtils._getStaticResourceAttribute(id152.src)}}"/>
+				<b id="id151" style="{{id151.style}}" className="{{id151.className}}" maxLines="{{id151.maxLines}}" space="{{id151.space}}" text="{{id151.text}}" userSelect="{{id151.userSelect}}">{{id151.text}}</b>
+			</a>
+			<a id="id153" style="{{id153.style}}" className="{{id153.className}}" title="{{id153.title}}">
+				<b id="id154" style="{{id154.style}}" className="{{id154.className}}" maxLines="{{id154.maxLines}}" space="{{id154.space}}" text="{{id154.text}}" userSelect="{{id154.userSelect}}">{{id154.text}}</b>
+			</a>
+			<a id="id155" style="{{id155.style}}" className="{{id155.className}}" title="{{id155.title}}">
+				<d id="id156" style="{{id156.style}}" className="{{id156.className}}" alt="{{id156.alt}}" fit="{{id156.fit}}" imgPreview="{{id156.imgPreview}}" lazyLoad="{{id156.lazyLoad}}" maskClosable="{{id156.maskClosable}}" mode="{{id156.mode}}" showMenuByLongpress="{{id156.showMenuByLongpress}}" src="{{wxsUtils._getStaticResourceAttribute(id156.src)}}"/>
+			</a>
+			<a id="id162" style="{{id162.style}}" className="{{id162.className}}" title="{{id162.title}}">
+				<a id="id217" style="{{id217.style}}" className="{{id217.className}}" title="{{id217.title}}">
+					<d id="id158" style="{{id158.style}}" className="{{id158.className}}" alt="{{id158.alt}}" fit="{{id158.fit}}" imgPreview="{{id158.imgPreview}}" lazyLoad="{{id158.lazyLoad}}" maskClosable="{{id158.maskClosable}}" mode="{{id158.mode}}" showMenuByLongpress="{{id158.showMenuByLongpress}}" src="{{wxsUtils._getStaticResourceAttribute(id158.src)}}"/>
+				</a>
+				<a id="id218" style="{{id218.style}}" className="{{id218.className}}" title="{{id218.title}}">
+					<d id="id161" style="{{id161.style}}" className="{{id161.className}}" alt="{{id161.alt}}" fit="{{id161.fit}}" imgPreview="{{id161.imgPreview}}" lazyLoad="{{id161.lazyLoad}}" maskClosable="{{id161.maskClosable}}" mode="{{id161.mode}}" showMenuByLongpress="{{id161.showMenuByLongpress}}" src="{{wxsUtils._getStaticResourceAttribute(id161.src)}}"/>
+				</a>
+			</a>
+		</a>
+		<a id="id165" style="{{id165.style}}" className="{{id165.className}}" title="{{id165.title}}">
+			<a id="id166" style="{{id166.style}}" className="{{id166.className}}" title="{{id166.title}}">
+				<c id="id171" style="{{id171.style}}" className="{{id171.className}}" color="{{id171.color}}" name="{{id171.name}}" size="{{id171.size}}" src="{{wxsUtils._getStaticResourceAttribute(id171.src)}}"/>
+				<b id="id170" style="{{id170.style}}" className="{{id170.className}}" maxLines="{{id170.maxLines}}" space="{{id170.space}}" text="{{id170.text}}" userSelect="{{id170.userSelect}}">{{id170.text}}</b>
+			</a>
+			<a id="id167" style="{{id167.style}}" className="{{id167.className}}" title="{{id167.title}}">
+				<b id="id172" style="{{id172.style}}" className="{{id172.className}}" maxLines="{{id172.maxLines}}" space="{{id172.space}}" text="{{id172.text}}" userSelect="{{id172.userSelect}}">{{id172.text}}</b>
+			</a>
+		</a>
+		<e id="id188" style="{{id188.style}}" className="{{id188.className}}" initialValues="{{id188.initialValues}}" layout="{{id188.layout}}" bind:submit="onid188$submit">
+			<f id="id189" style="{{id189.style}}" className="{{id189.className}}" clearable="{{id189.clearable}}" confirmType="{{id189.confirmType}}" focus="{{id189.focus}}" label="{{id189.label}}" labelVisible="{{id189.labelVisible}}" layout="{{id189.layout}}" maxLength="{{id189.maxLength}}" name="{{id189.name}}" password="{{id189.password}}" placeholder="{{id189.placeholder}}" required="{{id189.required}}" requiredFlag="{{id189.requiredFlag}}" requiredMsg="{{id189.requiredMsg}}" rules="{{id189.rules}}" size="{{id189.size}}" type="{{id189.type}}" validateStatus="{{id189.validateStatus}}" value="{{id189.value}}" bind:focus="onid189$focus" bind:blur="onid189$blur" bind:change="onid189$change" slot="contentSlot"/>
+			<f id="id190" style="{{id190.style}}" className="{{id190.className}}" clearable="{{id190.clearable}}" confirmType="{{id190.confirmType}}" focus="{{id190.focus}}" label="{{id190.label}}" labelVisible="{{id190.labelVisible}}" layout="{{id190.layout}}" maxLength="{{id190.maxLength}}" name="{{id190.name}}" password="{{id190.password}}" placeholder="{{id190.placeholder}}" required="{{id190.required}}" requiredFlag="{{id190.requiredFlag}}" requiredMsg="{{id190.requiredMsg}}" rules="{{id190.rules}}" size="{{id190.size}}" type="{{id190.type}}" validateStatus="{{id190.validateStatus}}" value="{{id190.value}}" bind:focus="onid190$focus" bind:blur="onid190$blur" bind:change="onid190$change" slot="contentSlot"/>
+			<f id="id191" style="{{id191.style}}" className="{{id191.className}}" clearable="{{id191.clearable}}" confirmType="{{id191.confirmType}}" focus="{{id191.focus}}" label="{{id191.label}}" labelVisible="{{id191.labelVisible}}" layout="{{id191.layout}}" maxLength="{{id191.maxLength}}" name="{{id191.name}}" password="{{id191.password}}" placeholder="{{id191.placeholder}}" required="{{id191.required}}" requiredFlag="{{id191.requiredFlag}}" requiredMsg="{{id191.requiredMsg}}" rules="{{id191.rules}}" size="{{id191.size}}" type="{{id191.type}}" validateStatus="{{id191.validateStatus}}" value="{{id191.value}}" bind:focus="onid191$focus" bind:blur="onid191$blur" bind:change="onid191$change" slot="contentSlot"/>
+			<f id="id192" style="{{id192.style}}" className="{{id192.className}}" clearable="{{id192.clearable}}" confirmType="{{id192.confirmType}}" focus="{{id192.focus}}" label="{{id192.label}}" labelVisible="{{id192.labelVisible}}" layout="{{id192.layout}}" maxLength="{{id192.maxLength}}" name="{{id192.name}}" password="{{id192.password}}" placeholder="{{id192.placeholder}}" required="{{id192.required}}" requiredFlag="{{id192.requiredFlag}}" requiredMsg="{{id192.requiredMsg}}" rules="{{id192.rules}}" size="{{id192.size}}" type="{{id192.type}}" validateStatus="{{id192.validateStatus}}" value="{{id192.value}}" bind:focus="onid192$focus" bind:blur="onid192$blur" bind:change="onid192$change" slot="contentSlot"/>
+			<f id="id193" style="{{id193.style}}" className="{{id193.className}}" clearable="{{id193.clearable}}" confirmType="{{id193.confirmType}}" focus="{{id193.focus}}" label="{{id193.label}}" labelVisible="{{id193.labelVisible}}" layout="{{id193.layout}}" maxLength="{{id193.maxLength}}" name="{{id193.name}}" password="{{id193.password}}" placeholder="{{id193.placeholder}}" required="{{id193.required}}" requiredFlag="{{id193.requiredFlag}}" requiredMsg="{{id193.requiredMsg}}" rules="{{id193.rules}}" size="{{id193.size}}" type="{{id193.type}}" validateStatus="{{id193.validateStatus}}" value="{{id193.value}}" bind:focus="onid193$focus" bind:blur="onid193$blur" bind:change="onid193$change" slot="contentSlot"/>
+			<g id="id194" style="{{id194.style}}" className="{{id194.className}}" label="{{id194.label}}" labelVisible="{{id194.labelVisible}}" layout="{{id194.layout}}" name="{{id194.name}}" range="{{id194.range}}" required="{{id194.required}}" requiredFlag="{{id194.requiredFlag}}" requiredMsg="{{id194.requiredMsg}}" value="{{id194.value}}" bind:change="onid194$change" slot="contentSlot"/>
+			<a id="id229" style="{{id229.style}}" className="{{id229.className}}" slot="contentSlot">
+				<g id="id230" style="{{id230.style}}" className="{{id230.className}}" disabled="{{id230.disabled}}" label="{{id230.label}}" labelVisible="{{id230.labelVisible}}" layout="{{id230.layout}}" name="{{id230.name}}" range="{{id230.range}}" required="{{id230.required}}" requiredFlag="{{id230.requiredFlag}}" requiredMsg="{{id230.requiredMsg}}" value="{{id230.value}}" bind:change="onid230$change"/>
+				<a id="id231" style="{{id231.style}}" className="{{id231.className}}">
+					<b id="id232" style="{{id232.style}}" className="{{id232.className}}" maxLines="{{id232.maxLines}}" space="{{id232.space}}" text="{{id232.text}}" userSelect="{{id232.userSelect}}">{{id232.text}}</b>
+					<b id="id234" style="{{id234.style}}" className="{{id234.className}}" maxLines="{{id234.maxLines}}" space="{{id234.space}}" text="{{id234.text}}" userSelect="{{id234.userSelect}}" bind:tap="onid234$tap">{{id234.text}}</b>
+					<b id="id235" style="{{id235.style}}" className="{{id235.className}}" maxLines="{{id235.maxLines}}" space="{{id235.space}}" text="{{id235.text}}" userSelect="{{id235.userSelect}}">{{id235.text}}</b>
+					<b id="id233" style="{{id233.style}}" className="{{id233.className}}" maxLines="{{id233.maxLines}}" space="{{id233.space}}" text="{{id233.text}}" userSelect="{{id233.userSelect}}" bind:tap="onid233$tap">{{id233.text}}</b>
+				</a>
+			</a>
+			<a id="id236" style="{{id236.style}}" className="{{id236.className}}" slot="contentSlot">
+				<b id="id237" style="{{id237.style}}" className="{{id237.className}}" maxLines="{{id237.maxLines}}" space="{{id237.space}}" text="{{id237.text}}" userSelect="{{id237.userSelect}}">{{id237.text}}</b>
+			</a>
+			<a id="id195" style="{{id195.style}}" className="{{id195.className}}" title="{{id195.title}}" slot="contentSlot">
+				<a id="id196" style="{{id196.style}}" className="{{id196.className}}" title="{{id196.title}}">
+					<c id="id199" style="{{id199.style}}" className="{{id199.className}}" color="{{id199.color}}" name="{{id199.name}}" size="{{id199.size}}" src="{{wxsUtils._getStaticResourceAttribute(id199.src)}}"/>
+					<b id="id198" style="{{id198.style}}" className="{{id198.className}}" maxLines="{{id198.maxLines}}" space="{{id198.space}}" text="{{id198.text}}" userSelect="{{id198.userSelect}}">{{id198.text}}</b>
+				</a>
+				<a id="id197" style="{{id197.style}}" className="{{id197.className}}" title="{{id197.title}}">
+					<b id="id200" style="{{id200.style}}" className="{{id200.className}}" maxLines="{{id200.maxLines}}" space="{{id200.space}}" text="{{id200.text}}" userSelect="{{id200.userSelect}}">{{id200.text}}</b>
+				</a>
+				<a id="id211" style="{{id211.style}}" className="{{id211.className}}" title="{{id211.title}}">
+					<c id="id212" style="{{id212.style}}" className="{{id212.className}}" color="{{id212.color}}" name="{{id212.name}}" size="{{id212.size}}" src="{{wxsUtils._getStaticResourceAttribute(id212.src)}}"/>
+					<a id="id224" style="{{id224.style}}" className="{{id224.className}}" title="{{id224.title}}">
+						<b id="id213" style="{{id213.style}}" className="{{id213.className}}" maxLines="{{id213.maxLines}}" space="{{id213.space}}" text="{{id213.text}}" userSelect="{{id213.userSelect}}">{{id213.text}}</b>
+					</a>
+					<a id="id226" style="{{id226.style}}" className="{{id226.className}}" title="{{id226.title}}" bind:tap="onid226$tap">
+						<c id="id225" style="{{id225.style}}" className="{{id225.className}}" color="{{id225.color}}" name="{{id225.name}}" size="{{id225.size}}" src="{{wxsUtils._getStaticResourceAttribute(id225.src)}}"/>
+						<b id="id227" style="{{id227.style}}" className="{{id227.className}}" maxLines="{{id227.maxLines}}" space="{{id227.space}}" text="{{id227.text}}" userSelect="{{id227.userSelect}}">{{id227.text}}</b>
+					</a>
+				</a>
+			</a>
+			<a id="id214" style="{{id214.style}}" className="{{id214.className}}" title="{{id214.title}}" slot="contentSlot">
+				<h id="id210" style="{{id210.style}}" className="{{id210.className}}" appParameter="{{id210.appParameter}}" categoryId="{{id210.categoryId}}" content="{{id210.content}}" disabled="{{id210.disabled}}" formType="{{id210.formType}}" loading="{{id210.loading}}" openType="{{id210.openType}}" sendMessageImg="{{id210.sendMessageImg}}" sendMessagePath="{{id210.sendMessagePath}}" sendMessageTitle="{{id210.sendMessageTitle}}" sessionFrom="{{id210.sessionFrom}}" showMessageCard="{{id210.showMessageCard}}" size="{{id210.size}}" type="{{id210.type}}"/>
+			</a>
+		</e>
+		<a id="id238" style="{{id238.style}}" className="{{id238.className}}">
+			<i id="id239" style="{{id239.style}}" className="{{id239.className}}" content="{{id239.content}}" isDefaultButton="{{id239.isDefaultButton}}" visible="{{id239.visible}}" bind:close="onid239$close">
+				<a id="id241" style="{{id241.style}}" className="{{id241.className}}" wx:if="{{id241._waIf}}" slot="customContent">
+					<b id="id245" style="{{id245.style}}" className="{{id245.className}}" maxLines="{{id245.maxLines}}" space="{{id245.space}}" text="{{id245.text}}" userSelect="{{id245.userSelect}}">{{id245.text}}</b>
+					<j id="id246" style="{{id246.style}}" className="{{id246.className}}" bounces="{{id246.bounces}}" enableBackToTop="{{id246.enableBackToTop}}" enableFlex="{{id246.enableFlex}}" enhanced="{{id246.enhanced}}" fastDeceleration="{{id246.fastDeceleration}}" lowerThreshold="{{id246.lowerThreshold}}" pagingEnabled="{{id246.pagingEnabled}}" refresherBackground="{{id246.refresherBackground}}" refresherDefaultStyle="{{id246.refresherDefaultStyle}}" refresherEnabled="{{id246.refresherEnabled}}" refresherThreshold="{{id246.refresherThreshold}}" refresherTriggered="{{id246.refresherTriggered}}" scrollAnchoring="{{id246.scrollAnchoring}}" scrollIntoView="{{id246.scrollIntoView}}" scrollLeft="{{id246.scrollLeft}}" scrollTop="{{id246.scrollTop}}" scrollWithAnimation="{{id246.scrollWithAnimation}}" scrollX="{{id246.scrollX}}" scrollY="{{id246.scrollY}}" showScrollbar="{{id246.showScrollbar}}" upperThreshold="{{id246.upperThreshold}}">
+						<b id="id247" style="{{id247.style}}" className="{{id247.className}}" maxLines="{{id247.maxLines}}" space="{{id247.space}}" text="{{id247.text}}" userSelect="{{id247.userSelect}}">{{id247.text}}</b>
+					</j>
+				</a>
+				<a id="id240" style="{{id240.style}}" className="{{id240.className}}" wx:if="{{id240._waIf}}" slot="customContent">
+					<b id="id242" style="{{id242.style}}" className="{{id242.className}}" maxLines="{{id242.maxLines}}" space="{{id242.space}}" text="{{id242.text}}" userSelect="{{id242.userSelect}}">{{id242.text}}</b>
+					<j id="id243" style="{{id243.style}}" className="{{id243.className}}" bounces="{{id243.bounces}}" enableBackToTop="{{id243.enableBackToTop}}" enableFlex="{{id243.enableFlex}}" enhanced="{{id243.enhanced}}" fastDeceleration="{{id243.fastDeceleration}}" lowerThreshold="{{id243.lowerThreshold}}" pagingEnabled="{{id243.pagingEnabled}}" refresherBackground="{{id243.refresherBackground}}" refresherDefaultStyle="{{id243.refresherDefaultStyle}}" refresherEnabled="{{id243.refresherEnabled}}" refresherThreshold="{{id243.refresherThreshold}}" refresherTriggered="{{id243.refresherTriggered}}" scrollAnchoring="{{id243.scrollAnchoring}}" scrollIntoView="{{id243.scrollIntoView}}" scrollLeft="{{id243.scrollLeft}}" scrollTop="{{id243.scrollTop}}" scrollWithAnimation="{{id243.scrollWithAnimation}}" scrollX="{{id243.scrollX}}" scrollY="{{id243.scrollY}}" showScrollbar="{{id243.showScrollbar}}" upperThreshold="{{id243.upperThreshold}}">
+						<b id="id244" style="{{id244.style}}" className="{{id244.className}}" maxLines="{{id244.maxLines}}" space="{{id244.space}}" text="{{id244.text}}" userSelect="{{id244.userSelect}}">{{id244.text}}</b>
+					</j>
+				</a>
+			</i>
+		</a>
+	</a>
+</block>
