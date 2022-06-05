@@ -4,18 +4,14 @@ For better development of our tutor club, we propose this Wechat Miniprogram. Ou
 ## How to Setup for Development?
 1. Download the [WeChatDevTool](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) (Stable Build recommanded) <br/>
 
-- The development tool should look like this (maybe in Mandarin)<br/>
-
-![3](https://user-images.githubusercontent.com/99038613/172031306-c8083c18-ba57-4c87-b0cd-48fe08c256b8.png)
-
 2. Clone this repostory to your PC (Github Desktop/Command Line)
-  - Github Desktop
-    - The recommanded way is to use the [Github Desktop](https://desktop.github.com/). Github Desktop simplifies the development workflow, even if you are not that             familiar with git, you can contribute to this repository without a problem using the Github Desktop.
-    - After downloading the Github Desktop, you should go to File->Clone repository, copy the URL of this repository from <br/>
 
-3. Open the code with following setting (目录填写miniprogram文件夹的location) APPid: wxfc0a0ae443f9a74d
-![Setting](https://github.com/Yuanxyyds/webserver/blob/main/Intro.png?raw=true)
+3. Open the code with WechatDevTool 
+  - In Mini Program -> Import (from where you clone the repository to) AppID: wxfc0a0ae443f9a74d <br/>
+  
+![1](https://user-images.githubusercontent.com/99038613/172032101-7d869f01-e5f3-49d7-a745-6a748a0b8f01.png)
 
-4. Create your own branch at this repo, git push your changes to your branch
+## How to Contribute?
+- Create your own branch at this repo, after you finished a feature, push your changes
 
-5. 改好了我来上传code，大家就每次本地编辑code, git pull + git push到github就好了 （我们不需要用wechat自带的version control，所以只需要通过github share code就好，我最后上传）
+- Edit the code then git pull + git push, Yuanxyyds will finish the work afterwards.（我们不需要用wechat自带的version control，所以只需要通过github share code就好，我最后上传）
