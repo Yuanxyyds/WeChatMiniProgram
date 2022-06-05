@@ -1,5 +1,8 @@
-# WeChatMiniProgram
-1. Download th WeChatDevTool from https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+# UofT Tutor Club WechatMiniprogram
+For better development of our tutor club, we propose this Wechat Miniprogram. Our basic idea is to introduce our club information to more people, including our team, goal and what we do. Also making it more convenient to conduct classes, make appointments and more.
+
+## How to setup development tools?
+1. Download the WeChatDevTool from [here](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) (Stable Build recommanded)
 
 2. Clone this repostory on your PC
 
