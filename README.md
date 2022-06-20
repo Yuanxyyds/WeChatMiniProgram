@@ -4,7 +4,7 @@ For better development of our tutor club, we propose this Wechat Miniprogram. Ou
 ## How to Setup for Development?
 1. Download the [WeChatDevTool](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) (Stable Build recommanded) <br/>
 
-2. Clone this repostory to your PC (Github Desktop/Command Line)
+2. Clone this repostory to your PC and create your own working branch (Github Desktop/Command Line)
 
 3. Open the code with WechatDevTool 
   - In Mini Program -> Import (from where you clone the repository to) AppID: wxfc0a0ae443f9a74d <br/>
@@ -14,4 +14,4 @@ For better development of our tutor club, we propose this Wechat Miniprogram. Ou
 ## How to Contribute?
 - Create your own branch at this repo, after you finished a feature, push your changes
 
-- Edit the code then git pull + git push, Yuanxyyds will finish the work afterwards.（we will not use wechat's version control, we will use github to share code）
+- Edit the code then create a pull request, Yuanxyyds will finish the work afterwards.（we will not use wechat's version control, we will use github to share code）
